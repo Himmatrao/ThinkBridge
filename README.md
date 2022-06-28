@@ -21,3 +21,12 @@ Observed the output now.
 
 
 
+Description:- 
+
+Question1.xlxs:- contain 1 st quention
+Question2 :- refer 2nd question
+question3 suggestion.xlsx :- refer 3 rd question.
+
+
+
+
